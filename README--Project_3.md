@@ -16,6 +16,7 @@ Project_3
       7、可以查询某个医生未来七天，病人对它的预约情况。
 
 系统运行情况如下图所示：
+
 添加科室功能：
 ![image](https://github.com/user-attachments/assets/ac5a6931-1a73-42a3-a5c4-0864350ffba7)
 
